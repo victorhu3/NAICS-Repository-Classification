@@ -4,7 +4,7 @@
 -   `finished_dataset/openai_finished_df.zip`: the dataset with openai embeddings
 -   `finished_dataset/keyBert_finished_df.csv`: the dataset with keyBert embeddings
 
-### if the filles are too big:
+### Links the files are too big:
 
 -   `finished_dataset/doc2vec_finished_df`: https://drive.google.com/file/d/16fEiSKDF0YU8By-1wlwSZWXNpoYjn-gb/view?usp=sharing
 -   `finished_dataset/openai_finished_df` : https://drive.google.com/file/d/1jow40GIm6F3zztjYb5yGgxtEQGU8Wk1W/view?usp=sharing
