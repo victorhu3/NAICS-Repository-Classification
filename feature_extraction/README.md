@@ -2,9 +2,11 @@
 
 Files:
 
+-   'data_collector.ipynb': script for collecting and saving data for each NAICS code based on GitHub topics
 -   `openai.ipynb`: script for feature extraction using openai embeddings
 -   `doc2vec.ipynb`: script for feature extraction using doc2vec embeddings
 -   `keyBert.ipynb`: script for feature extraction using keyBert embedding
+-   'openai_multilabeling-eda.ipynb': script for measuring gpt-4's performance for multi-labeling the data
 
 Datasets:
 
