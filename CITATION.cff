@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this, please cite it as below."
+authors:
+- name: "SAAS Berkeley"
+contact:
+- affilation: "SAAS Berkeley"
+  email: victorhu3@berkeley.edu
+title: "NAICS Repository Classification"
+version: 1.0.1
+date-released: 2023-12-29
+license: CC0-1.0
+url: https://github.com/victorhu3/NAICS-Repository-Classification
+repository: "https://github.com/victorhu3/NAICS-Repository-Classification"
+keywords: 
+- "open source"
+- dataset
+- NAICS
