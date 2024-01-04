@@ -10,6 +10,8 @@ See [feature_extraction](./feature_extraction) for data collection scripts, data
 
 ## Models
 
+See the [baseline_models](./baseline_models) for attempting classification with similarity-based approaches. See the [models](./models) folder for the neural network, multi-label linear regression, and UMAP and clustering approaches.
+
 ## Remarks
 - Repository description, README, and Github topics were found to be the most predictive features in classifying into NAICS codes.
 - More novel features like images and organization names are potentially helpful but difficult to generalize for all repos. For instance, classes of images are extremely broad (logos, artwork, real-life, abstract).
