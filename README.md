@@ -6,7 +6,7 @@ This repository contains Juypter notebooks and datasets working towards the goal
 
 Data collection was automated through the Github REST API. 
 
-See [feature_extraction](./feature_extraction) for data collection scripts, data processing scripts, and datasets. For conveniece, see [finished_dataset](./finished_dataset) for the data post-processed with various embedding models.
+See [feature_extraction](./feature_extraction) for data collection scripts, data processing scripts, and datasets. See [finished_dataset](./finished_dataset) for the data post-processed with various embedding models for convenience.
 
 ## Models
 
