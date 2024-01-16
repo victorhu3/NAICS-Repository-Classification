@@ -10,8 +10,9 @@ Files:
 
 Datasets:
 
+-   `NAICS Topics.csv`: Selected Github topics associated with NAICS codes, used by `data_collector.ipynb` 
 -   `combined_df.csv`: the dataset with all the data without embeddings
 -   `all_languages_combined.csv`: dataset with foreign language repos included
 -   `combined_df_similarity.csv`: the dataset with all the embeddings and information and the similarity scores
--   `NAICS descriptions - Sheet1.csv`: the NAICS descriptions and corresponding topics
+-   `NAICS descriptions.csv`: the NAICS descriptions and corresponding topics
 -   `finished_df.csv`: script output
