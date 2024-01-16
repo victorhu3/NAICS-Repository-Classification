@@ -1,0 +1,137 @@
+Sector,Text
+11,"farmOS is a web-based application for farm management, planning, and record keeping. It is developed by a community of volunteers and aims to provide a standard platform for farmers, developers, and researchers to build upon."
+11,"This is an Android Application designed for our Indian farmers.  The technology has become a part and parcel of everyone's life and it is also helping us to make our daily tasks easy. We identified that in the Agriculture sector, the farmers are still lacking the best technology use cases. There are thousands of applications in the markets for farmers but they only provide the limited features. The main reason for creating this application was to combine every possible feature into the single app. This will remove the burden of managing multiple account and apps for farmers. The application is also designed in such a way that it will be easy to use."
+11,"LiteFarm is the world’s first community-led, not-for-profit, digital platform joining farmers and scientists together for participatory assessment of social, environmental and economic outputs of farming systems. LiteFarm is the first application of its kind specifically tailored to the needs of diversified farmers with built-in pathways to provide expert decision support and help them earn additional income through payment for ecological services (PES) schemes and in-app certifications (such as organic). These approaches serve the multiple purposes of incentivizing adoption of sustainable land use practices through the provision of evidence-based decision support, and significantly increasing the amount of data being collected by diversified farming operations around the globe. It was developed with farmers at the center of the design process and built from the ground up with accessibility and approachability in mind. We are proud of our mission: To meet farmers where they are and equip them with the tools they need to make informed and responsible decisions about the health of their farm, their livelihood, their community, and the planet. LiteFarm version 1.0.0 was released to the public in July 2020. The LiteFarm app is continually being developed, with farmers, researchers, designers and developers working together to create new localized modules and features into the future. LiteFarm is deployed in Canada, the USA, and Latin America. If you’re a farmer and would like to join LiteFarm you can sign up today at app.litefarm.org. If you are a researcher or would like to find out more about this project you can contact the UBC Centre for Sustainable Food Systems. If you're a developer, welcome to the team! All the details on how you can contribute to this project are right here."
+11,"With FarmVibes.AI, you can develop rich geospatial insights for agriculture and sustainability. Build models that fuse multiple geospatial and spatiotemporal datasets to obtain insights (e.g. estimate carbon footprint, understand growth rate, detect practices followed) that would be hard to obtain when these datasets are used in isolation. You can fuse together satellite imagery (RGB, SAR, multispectral), drone imagery, weather data, and more. Fusing datasets this way helps generate more robust insights and unlocks new insights that are otherwise not possible without fusion. This repo contains several fusion workflows (published and shown to be key for agriculture related problems) that help you build robust remote sensing, earth observation, and geospatial models with focus on agriculture/farming with ease. Our main focus right now is agriculture and sustainability, which the models are optimized for. However, the framework itself is generic enough to help you build models for other domains."
+11,"This is an Android Application designed for our Indian farmers. The technology has become a part and parcel of everyone's life and it is also helping us to make our daily tasks easy. We identified that in the Agriculture sector, the farmers are still lacking the best technology use cases. There are thousands of applications in the markets for farmers but they only provide the limited features. There are thousands of applications in the markets for farmers but they only provide the limited features. The main reason for creating this application was to combine every possible feature into the single app. This will remove the burden of managing multiple account and apps for farmers. The application is also designed in such a way that it will be easy to use. "
+21,"Hello World! I am Edgar Del Pino, an exploration and production geophysicist/geoscientist which have a lot of projects in mind related with geology, geophysics, programming, AI and Data Sciences.
+
+This is my first attempt to create a software platform where I can implement Machine Learning, AI and data Sciences to a variety of problems that I have faced during my different jobs and assignations inside the oil industry, in different settings and departments, where the lack of time and resources led me to choose a practical solution, but, I always kept some doubts about what kind of output could be obtained if we would had apply a more scientific approach using Machine Learning...
+
+The software is incomplete because this is only the design stage of the User Interface and early implemmentations of segy reading, plotting and dataframes implementation. There are a lot of fixes to do, rewrite, recoding, debugging and obviously, changes to be made. This is because for me, the most important thing in an app or analysis software, is the UI. The most popular geological interpretation software has a very intuitive and straightforward UI, however the closest competitor's software has a very serious UI problem: it is not intuitive. So I chose the most user friendly framework construction software: PyQT5. That is why the following are the first focus of this early software version: the fundations construction and data reading, the purposes of each module, the plotting of the data and the framework design. This is only the begining...
+
+Let's start with the project!:
+
+Programming language: Python 3.8 - because it has a lot of documentation and a very active community.
+Windows IDE (Integrated Development Environment): Visual Studio Code. It works very well. In Linux, Spyder was my choice.
+Framework: PyQT5 - For me, it has the best QT designer, and it's extremely easy to use (on Windows).
+SEGY library: SEGYIO - a very interesting option for reading and manipulation of SEGY files, but I am strugling with its coordinates management or vectorized applications. It has pros and cons.
+Python libraries:
+numpy: for a very easy array manipulation and best performance.
+pandas: for Data Science forms or massive ascii and number manipulation. These are the famous Dataframes.
+matplotlib: a library to plot almost everything with python. I am struggling with its PyQT5 integration.
+xarray: segyoi has a better integration with it and has matplotlib plotting routines.
+csv: for readign CSV files.
+What the software do so far:
+
+Can load a no-referenced 2D seismic lines and plot them in the Seismic 2D View Tab.
+Can load a 3D Seismic an plot a line in the Seismic 3D View Tab.
+Can load sigle trace seismic in the single trace VSP Tab.
+Can load and display the content of a Dataframe in form of Bar charts and Pie charts, in the Data Science Tab.
+Most of the loading will be done in the Import Button and the Data Sience Button.
+Inside the Data folder, there is a csv file ""Exploratory_Wells_Data.csv"" that is used in the Data Sciences module for testing purposes."
+21,"This repository contains a Jupyter Notebook called Multi-Well DCF.ipynb that takes as input oil and natural gas price forecasts (example file provided STR-071521.csv) and a list of properties that could be existing wells or future wells (example file provided property_table.csv) with several fields needed to create forecasts for oil and gas production, expenses, and capital. The Jupyter Notebook generates the forecasts for the time frame specified, discounts the projected cash flow stream, and provides output of key economic metrics such as net present value, rate of return, etc.
+
+Also included is a Jupyter Notebook called DCA Calcs.ipynb that is a simple calculator to forecast oil and gas volumes from Arps equations. This is a primary component of the Muti-Well DCF.ipynb program and is provided for reference.
+
+It is important to note that all properties in the property_table.csv file must have forecast parameters anchored to a common start month ('Base Date' in cell 10 of the Multi-Well DCF.ipynb program). In the example file, the base date (start month) is set to July 2021."
+21,"GasCompressibility-py is a Python library for calculating the gas compressibility factor, 
+, based on real gas law. It is designed with practical oil field application in mind, in which the required inputs (
+, 
+, and 
+) can be readily obtained from the surface facility.
+
+If you like this package, please consider giving a star ⭐ on the top right corner!"
+21,"Machine Learning to predict share prices in the Oil & Gas Industry
+
+In a nutshell, this is a quick introduction to understand the potential of data science and machine learning used in the oil industry. I have chosen to work with the stock price of a few oil companies (or oil service company) and the oil price dataset as an example. Just to be clear, the intention is not to provide an analysis of the current situation in the oil industry. The main objectives here are to show the potential and give you the tools to create your own view of the markets and apply it to other problems or even industries.
+
+In the low price world, reducing costs, saving time and improving safety are crucial outcomes that can be benefited from using machine learning in oil and gas operations. Find below a quick list with a few of the applications of data analysis and machine learning in the Oil & Gas upstream industry:
+
+Optimization of valve settings in smart wells to maximize NPV. Machine Learning based rock type classification Big data analysis on wells downtime. Data-driven production monitoring. Identifications of patterns using multiple variables during exploration phase. Reservoir modelling and history matching using the power of pattern recognition. Drilling rig automation. Additional opportunities where gather large volumes of information in real-time or by using multiple analogs. Deep learning to improve the efficiency and safety of hydraulic fracturing. Provide more intelligence at the wellhead. Integrated asset modeling optimization using machine-learning based proxy models. I have tailored a quick exercise on how to use artificial intelligence using oil price and share price of a few companies. The notebook will focus on loading data and doing some illustrative data visualisations along the way. I will then use linear regression, cluster analysis and Random Forest to create a model predicting the share price in the short term.
+
+I have been using data analysis and machine learning in different tasks in my current and previous jobs as a Reservoir Engineer. Excel is the most common tool for any type of analysis in the industry. However, it is certainly limited to basic data analysis, manipulation and to construct predictive models. We understand this conservative industry is sometimes a bit reluctant or delayed implementing modern analysis and predictive workflows to drive decisions. Also, due to the lack of investment in ""lower for longer"" oil prices and not many young engineers joining us, we are behind in the race implementing these techniques.
+
+Firstly, lets start with what the list of tools required. The modern world of data science offers multiple ways of analyzing and predicting patterns. Python is the programming language used for this exercise. I personally use it under the umbrella of the Anaconda distribution. I will also be hoping to learn a lot from this exercise, so feedback is very welcome.
+
+The main libraries that we will use are:
+
+Numpy: Library for multidimensional arrays with high level mathematical functions to operate them Pandas: Works on top of Numpy, offer a great way of manipulate and analyse data. Matblotlib: Plotting and visualization. Seaborn: Works on top of matplotlib to provide a high level interface for attractive plotting and visualization. Scikit Learn: Libraries for Machine Learning. In this exercise we will use the following: Linear Regression, Random Forest Regression and K-means For the purposes of this interactive quick guide, I will use these sets of data:
+
+Oil price dataset from the U.S Energy Information administration. Share price dataset from Yahoo Finance in a daily frequency from the following companies: Shell (RDSB.L)
+
+BP (BP.L)
+
+Cairn Energy (CNE.L)
+
+Premier Oil (PMO.L)
+
+Statoil (STL.OL)
+
+TOTAL (FP.PA)
+
+ENGIE (ENGI.PA)
+
+Schlumberger (SLB.PA)
+
+REPSOL (REP.MC)
+
+There are three parts that my workflow will cover:
+
+Loading data and introduction to feature engineering
+
+Data Analysis
+
+Machine Learning and Prediction!
+
+I will skip sections of the code below to keep the article in a reasonable size. If you want to see the entire code with explanations, I have created the following notebook.
+
+Lets start coding!"
+21,"TEP4905 – NTNU, Energy and Process Engineering Department, Master Thesis
+
+Specialization: Industrial Process Technology
+
+The objective of the master thesis was to develop a numerical model from a single-phase, vertical oil well in stationary state to study the effects of dilution to improve oil production. The model has the option to include a electrical submersible centrifugal pump (ESP). The model was developed using an object-oriented programming approach to increase portability and usability.
+
+This reposity includes:
+
+Classes codes
+Technical reports providing insights from different areas of the model"
+22,
+22,
+22,
+22,
+22,
+23,
+23,
+23,
+23,
+23,
+31-33,
+31-33,
+31-33,
+31-33,
+31-33,
+42,
+42,
+42,
+42,
+42,
+44-45,
+44-45,
+44-45,
+44-45,
+44-45,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+51,"OpenBB is committed to building the future of investment research by focusing on an open-source infrastructure accessible to everyone, everywhere. Trading in financial instruments involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all investors. Before deciding to trade in a financial instrument you should be fully informed of the risks and costs associated with trading the financial markets, carefully consider your investment objectives, level of experience, and risk appetite, and seek professional advice where needed. The data contained in the OpenBBTerminal is not necessarily accurate. OpenBB and any provider of the data contained in this website will not accept liability for any loss or damage as a result of your trading, or your reliance on the information displayed. All names, logos, and brands of third parties that may be referenced in our sites, products or documentation are trademarks of their respective owners. Unless otherwise specified, OpenBB and its products and services are not endorsed by, sponsored by, or affiliated with these third parties. Our use of these names, logos, and brands is for identification purposes only, and does not imply any such endorsement, sponsorship, or affiliation."
+51,"This Stock Analysis project employs a diverse set of programming languages, including Excel, Tableau, Power BI, Matlab, Python, R, and Tableau. It encompasses a wide array of analytical techniques such as data analysis, technical analysis, fundamental analysis, quantitative analysis, identification of candlestick patterns, and the development of various trading strategies. The project extends its coverage to include stocks, options, bonds, mutual funds, and Exchange-traded funds (ETFs). Moreover, a key focus of this project lies in the realm of quantitative research and analysis within the domains of trading and investment. This involves leveraging mathematical tools, statistical models, measurements, and research methodologies to gain insights into financial behaviors. The project integrates numerous technical indicators and stock trading strategies using Excel, Tableau, Power BI, Matlab, Python, and R languages. Across these languages, the project incorporates techniques like time series analysis, forecasting, as well as machine learning and deep learning methods. The stock market, also known as the equity market, is primarily recognized for the trading of stocks or equities, along with other financial securities like exchange-traded funds (ETFs), corporate bonds, and derivatives based on stocks, commodities, currencies, and bonds. U.S. equities refer to companies that trade on the U.S. stock exchange, whereas non-U.S. equities are those whose shares are listed on a U.S. exchange in addition to their primary listing on another stock exchange. Consequently, many international companies choose to have their stocks traded on a U.S. stock exchange. For example, when a foreign company decides to list its stock on a U.S. exchange, it must determine whether to be classified as a ""foreign private issuer"" under U.S. securities laws. However, foreign private issuers are subject to distinct reporting and regulatory obligations compared to U.S. companies. A stocks is an investment that represent a share or partial ownership of a company. First, a private company first sells shares of stock to the public, this process is known as an initial public offering (IPO). A public company is a corporation whose ownership is distributed amongst general public shareholders through publicly-traded stock shares. Investors buy stocks to earn a return on their investment. Stocks are one of the best way to build up capital or wealth. Stock is a low and high risk investment."
+52,"InfluxDB is an open source time series database written in Rust, using Apache Arrow, Apache Parquet, and Apache DataFusion as its foundational building blocks. This latest version (3.x) of InfluxDB focuses on providing a real-time buffer for observational data of all kinds (metrics, events, logs, traces, etc.) that is queryable via SQL or InfluxQL, and persisted in bulk to object storage as Parquet files, which other third-party systems can then use. It is able to run either with a write ahead log or completely off object storage if the write ahead log is disabled (in this mode of operation there is a potential window of data loss for any data buffered that has not yet been persisted to object store). The open source project runs as a standalone system in a single process. If you're looking for a clustered, distributed time series database with a bunch of enterprise security features, we have a commercial offering available as a managed hosted service or as on-premise software designed to run inside Kubernetes. The distributed version also includes functionality to reorganize the files in object storage for optimal query performance. In the future, we intend to have a commercial version of the single server software that adds fine-grained security, federated query capabilities, file reorganization for query optimization and deletes, and integration with other systems. Flux is the custom scripting and query language we developed as part of our effort on InfluxDB 2.0. While we will continue to support Flux for our customers, it is noticeably absent from the description of InfluxDB 3.0. Written in Go, we built Flux hoping it would get broad adoption and empower users to do things with the database that were previously impossible. While we delivered a powerful new way to work with time series data, many users found Flux to be an adoption blocker for the database. We spent years of developer effort on Flux starting in 2018 with a small team of developers. However, the size of the effort, including creating a new language, VM, query planner, parser, optimizer and execution engine, was significant. We ultimately weren’t able to devote the kind of attention we would have liked to more language features, tooling, and overall usability and developer experience. We worked constantly on performance, but because we were building everything from scratch, all the effort was solely on the shoulders of our small team. We think this ultimately kept us from working on the kinds of usability improvements that would have helped Flux get broader adoption. For InfluxDB 3.0 we adopted Apache Arrow DataFusion, an existing query parser, planner, and executor as our core engine. That was in mid-2020, and over the course of the last three years, there have been significant contributions from an active and growing community. While we remain major contributors to the project, it is continuously getting feature enhancements and performance improvements from a worldwide pool of developers. Our efforts on the Flux implementation would simply not be able to keep pace with the much larger group of DataFusion developers. With InfluxDB 3.0 being a ground-up rewrite of the database in a new language (from Go to Rust), we weren’t able to bring the Flux implementation along. For InfluxQL we were able to support it natively by writing a language parser in Rust and then converting InfluxQL queries into logical plans that our new native query engine, Apache Arrow DataFusion, can understand and process. We also had to add new capabilities to the query engine to support some of the time series queries that InfluxQL enables. This is an effort that took a little over a year and is still ongoing. This approach means that the contributions to DataFusion become improvements to InfluxQL as well given it is the underlying engine. Initially, our plan to support Flux in 3.0 was to do so through a lower level API that the database would provide. In our Cloud2 product, Flux processes connect to the InfluxDB 1 & 2 TSM storage engine through a gRPC API. We built support for this in InfluxDB 3.0 and started testing with mirrored production workloads. We quickly found that this interface performed poorly and had unforeseen bugs, eliminating it as a viable option for Flux users to bring their scripts over to 3.0. This is due to the API being designed around the TSM storage engine’s very specific format, which the 3.0 engine is unable to serve up as quickly. We’ll continue to support Flux for our users and customers. But given Flux is a scripting language in addition to being a query language, planner, optimizer, and execution engine, a Rust-native version of it is likely out of reach. And because the surface area of the language is so large, such an effort would be unlikely to yield a version that is compatible enough to run existing Flux queries without modification or rewrites, which would eliminate the point of the effort to begin with. For Flux to have a path forward, we believe the best plan is to update the core engine so that it can use Flight SQL to talk to InfluxDB 3.0. This would make an architecture where independent processes that serve the InfluxDB 2.x query API (i.e. Flux) would be able to convert whatever portion of a Flux script that is a query into a SQL query that gets sent to the InfluxDB 3.0 process with the result being post-processed by the Flux engine. This is likely not a small effort as the Flux engine is built around InfluxDB 2.0's TSM storage engine and the representation of all data as individual time series. InfluxDB 3.0 doesn't keep a concept of series so the SQL query would either have to do a bunch of work to return individual series, or the Flux engine would do work with the resulting query response to construct the series. For the moment, we’re focused on improvements to the core SQL and (and by extension InfluxQL) query engine and experience both in InfluxDB 3.0 and DataFusion. We may come back to this effort in the future, but we don’t want to stop the community from self-organizing an effort to bring Flux forward. The Flux runtime and language exists as permissively licensed open source here. We've also created a community fork of Flux where the community can self-organize and move development forward without requiring our code review process. There are already a few community members working on this potential path forward. If you're interested in helping with this effort, please speak up on this tracked issue. We realize that Flux still has an enthusiastic, if small, user base and we’d like to figure out the best path forward for these users. For now, with our limited resources, we think focusing our efforts on improvements to Apache Arrow DataFusion and InfluxDB 3.0’s usage of it is the best way to serve our users that are willing to convert to either InfluxQL or SQL. In the meantime, we’ll continue to maintain Flux with security and critical fixes for our users and customers."""""""

@@ -1,0 +1,95 @@
+Sector,Description
+11,Classification of crop disease (yellow rust) from hyperspectral images using Deep Learning
+11,tutorials made for biologists to learn deep learning
+11,A voting classifier based machine learning system that aims to classify different levels of macro-nutrient present in a soil sample depending upon the amount of some other parameters
+11,Online texture triangle visualizer.
+11,This website provides research support for students enrolled in SOIL 210 for the annotated bibliography assignment.
+21,"Python worked examples and problems from Reservoir Engineering textbooks (Brian Towler SPE Textbook Vol. 8, etc.)"
+21,Framework for correlating two or more well logs using feature vectors generated from CNN's in Pytorch
+21,Machine learning framework for reservoir simulation
+21,Reservoir simulator in Python language
+21,"Machine Learning to predict share prices in the Oil & Gas Industry. In a nutshell, this is a quick introduction to understand the potential of data science and machine learning used in the oil industry. I have chosen to work with the stock price of a few oil companies (or oil service company) and the oil price data set as an example."
+22,"⚡ Energy consumption metrology agent. Let ""scaph"" dive and bring back the metrics that will help you make your systems and applications more sustainable !"
+22,⚡ The power of energy measurements in your house
+22,TESLA PowerWall 2 Security Shenanigans
+22,"The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and journalists."
+22,Julia for optimization simulation and modeling of PowerSystems. Part of the Scalable Integrated Infrastructure Planning Initiative at the National Renewable Energy Lab.
+23,A Web-Based System to Streamline Service Acquisition for Construction Projects in Nairobi
+23,"Scheduling, job, crew, and customer management web application for construction companies."
+23,CasCADe 4D visualization system for virtual construction planning
+23,"Thermal is a simple physics library, performing heat transmittance & condensate calculations."
+23,A spreadsheet used to simplify summing operations for measurement sheets.
+31-33,"Data Mining in Industrial Processes: Evaluation of different machine learning models for product quality prediction. Evaluated model types are Random Forest, Naive Gaussian Bayes, Logistic Regression, K Nearest Neighbour and Support Vector Machine. Comparision of non time based state based approach with time series based approach. Final result in precision 99.83 %."
+31-33,"Worked in an engineering startup in Singapore as an Electronics Design Engineer. Used PCB Design (EAGLE CAD), MATLAB Programming, Arduino & Circuit Simulation (LTSpice) for sensors development. "
+31-33,Enhancing the Manufacturing Efficiency: Simulation and Improvement of a Laptop Manufacturing Process
+31-33,"Design an electric tricycle using SolidWorks after the necessary study according to the desired specifications, and finally make the shop drawings for the whole design."
+31-33,Analysis of the effect of cutting speed on the surface roughness of cylindrical grinding process using ANOVA method.
+42,"Sophisticated ERP, CRM, Point-Of-Sale, etc. Open source now. This system is developed since 1996."
+42,"POP Commerce is an eCommerce and ERP application suite for retail and wholesale organizations. POP Commerce is based on Moqui Framework, Mantle Business Artifacts, and Simple Screens."
+42,Add coupons automatically to your BJ's Wholesale Club account without clicking or tapping a thousand times.
+42,Allow your WooCommerce to sell wholesale to your WooCommerce customers.
+42,An application for wholesale business to computerize their data
+44-45,Free and Open Source Enterprise Resource Planning (ERP)
+44-45,Shopizer java e-commerce software
+44-45,Time Series Forecasting Best Practices & Examples
+44-45,A modularized SDK library for Amazon Selling Partner API (fully typed in TypeScript)
+44-45,A PowerShell script to download Windows or UEFI Shell ISOs
+48-49,"Python for street networks. Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap."
+48-49,Open source Uber #deleteuber
+48-49,"Gallery of OSMnx tutorials, usage examples, and feature demonstations."
+48-49,USC urban data science course series with Python and Jupyter
+48-49,Multi-Agent Resource Optimization (MARO) platform is an instance of Reinforcement Learning as a Service (RaaS) for real-world resource optimization problems.
+51,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+51,Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+51,Stable Diffusion web UI
+51,The modern web developer’s platform
+51,Node.js API for Chrome
+52,"Investment Research for Everyone, Everywhere."
+52,"🍃 Automate your personal finances – for free, with no ads, and no data collection."
+52,Data Apps & Dashboards for Python. No JavaScript Required.
+52,"A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)"
+52,"Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL."
+53,"Predicting Amsterdam house / real estate prices using Ordinary Least Squares-, XGBoost-, KNN-, Lasso-, Ridge-, Polynomial-, Random Forest-, and Neural Network MLP Regression (via scikit-learn)"
+53,Real Estate App using React as Frontend and Django as Backend by Rajan Gautam
+53,Python MLS and Real-Estate Data Scraper for the Realtor.ca Website
+53,"LF Real Estate is ready to make your real estate website faster, safer and better!"
+53,A set of processors that will instantly inform users via a set of channels (ie. Telegram) of new flats that are found on different rental websites.
+54,"A free solution to the EU, GDPR, and California Cookie Laws"
+54,Awesome free legal documents for companies
+54,legal and smart contracts framework to implement Employee Stock Options Plan
+54,Easily build and maintain any kind of contract. Free and Open Source
+54,A utility to help generate a file containing information about dependencies including the full license text.
+55,Send SMS if any of the predefined share price fluctuates above a certain customizable level.
+55,"Performance attribution analysis, value investment, original investment ideas, alpha seeking"
+55,"At the comfort of terminal command prompt, get the summary reports for each stock as well as the whole equity portfolio with information about realized and unrealized(holding) gains/losses split into short term and long term. It also calculates taxable capital gain for your long term capital gains that need grandfathering. All you need to have is a list of your portfolio transactions in a CSV file. Most brokerage websites allow you to download the list of transactions as a CSV. "
+55,"In this study, I empirically and statistically investigate the credibility of common asset pricing beliefs using data from S&P 500® constituents from January 2010–December 2020."
+55,This project studies the effects of the shape parameter estimator uncertainty at different threshold levels on the value-at-risk confidence interval for quantitative risk management (QRM) using the Generalized Pareto Distribution (GPD) from the Extreme Value Theory (EVT) approach.
+56,Dataset of trash objects for waste classification and detection
+56,Waste Segregation @HackBash2021 : ML based deployed waste segregation web app
+56,An android app for waste management.
+56,"Our platform uses technology to streamline the process of food recovery and distribution, giving businesses and organizations the power to fight hunger and food waste within minutes."
+56,"An Android-based application that allows us to categorise waste object images into six different categories, analyse waste generated in specific areas, and report waste found at specific locations to municipal corporations. "
+61,"A math problem generator, created for the purpose of giving self-studying students and teaching organizations the means to easily get access to high-quality, generated math problems to suit their needs."
+61,a networked visual programming language based on Snap!
+61,🙋 ⏳ A fun quiz game to test your knowledge of luxembourgs districts
+61,TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+61,"A simple educational virtual computer machine that can execute simple arithmetic and logical programs, This Virtual Machine has it's own memory model, instruction queue, virtual CPU and a compiler that comes with a parser."
+62,"Concept showcase for ""Appointment Scheduling System for Small and Medium-Sized Medical Facilities"""
+62,Website for the JuliaHealth organization (powered by Franklin.jl).
+62,This is an Open Aggregated Dataset for the COVID19 Cases in Malta
+62,Search the International Classification of Diseases (ICD10) table
+62,"Hello guys, welcome to my Data Science Portfolio. I include some knowledges I earn in my journey. I'll include some case study, papers, and code. Please check the readme."
+71,Compose React Animations using High-Order Functions or Components
+71,"Exploring the connections between artworks with deep ""Visual Analogies"""
+71,Discord bot generating images from given query
+71,The fastest way to convert an image to ASCII art.
+71,"ImaginePy, opensource (reversed) API like Stable Diffusion, Midjourney. Everything at 0 Cost."
+72,"The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart"
+72,Is-Vegan helps you to find out which food ingredients are vegan / non-vegan
+72,An open source food bank logistics and inventory management tool
+72,Food detection and recommendation with deep learning
+72,Food or Item Order Management System
+92,The organized list of awesome @italia projects
+92,Report.it è un applicativo Android/iOS sviluppato per lottare contro qualsiavoglia forma di discriminazione.
+92,"🌐 🧑‍🏫 Website for graduate-level course on comparative and international public administration, built with Quarto"
+92,INPS bug tracking system based on Taiga.io
