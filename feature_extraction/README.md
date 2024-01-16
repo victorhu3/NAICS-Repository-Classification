@@ -16,3 +16,10 @@ Datasets:
 -   `combined_df_similarity.csv`: the dataset with all the embeddings and information and the similarity scores
 -   `NAICS descriptions.csv`: the NAICS descriptions and corresponding topics
 -   `finished_df.csv`: script output
+
+## Data Labeling Methodology
+
+To try to speed up the data labeling process, Github Topics that closely corresponded with NAICS codes were manually selected. Repos were then collected by Github Topic
+with the associated NAICS code assumed to be the ground truth label. Github topic was later used as a feature with the ground truth label removed to avoid a data leakage during training.
+
+For repos that could fall under multiple NAICS industries, we experimented with using GPT4 to multi-label repos. These results were compared with the original single label approach.
